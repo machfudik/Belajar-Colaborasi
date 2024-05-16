@@ -1,2 +1,2 @@
 # Belajar-Colaborasi
-url materi: https://www.dicoding.com/academies/317
+Belajar Github di dicoding sangat menyenangkan
